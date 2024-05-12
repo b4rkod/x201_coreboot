@@ -1,4 +1,4 @@
-#201_coreboot
+# 201_coreboot
 
 My working coreboot config.
 
